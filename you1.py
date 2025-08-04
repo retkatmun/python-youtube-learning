@@ -78,14 +78,14 @@ for num in nums:
 
 for number in range(5):
   print("Attemp", number + 1 , (number + 1) * ".")
-'''
+
 
 for number in range(1, 10, 3):
     print("attemp", number, number, * ".")
 '''
 for i in range(1, 11):
     print(i)
-'''
+
 
 '''
 x = 0
@@ -96,3 +96,5 @@ while x < 10:
    print(x)
    x += 1
 '''
+
+
